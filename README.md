@@ -2,7 +2,7 @@
 
 Applied AI and backend engineer focused on turning ambiguous workflows into reliable, useful systems. I work across LLM applications, retrieval, cloud integrations, and the product infrastructure that makes them dependable in practice.
 
-I am pursuing a B.S. in Computer Science (AI/ML Track) at St. Cloud State University, graduating December 2027. My work spans solo products, client-facing systems, and research environments.
+I am pursuing a B.S. in Computer Science (AI/ML Track) at St. Cloud State University. My work spans solo products, client-facing systems, and research environments.
 
 ## Selected work
 
