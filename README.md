@@ -1,19 +1,44 @@
-# Yohannes Nigusse
+<h1 align="center">Yohannes Nigusse</h1>
 
-Applied AI and backend engineer focused on turning ambiguous workflows into reliable, useful systems. I work across LLM applications, retrieval, cloud integrations, and the product infrastructure that makes them dependable in practice.
+<p align="center">
+  Applied AI and backend engineer building reliable systems from ambiguous workflows.<br />
+  <a href="https://yohanes-os.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/yohs">LinkedIn</a> ·
+  <a href="mailto:yohanigusse@gmail.com">Email</a>
+</p>
 
-I am pursuing a B.S. in Computer Science (AI/ML Track) at St. Cloud State University. My work spans solo products, client-facing systems, and research environments.
+I work across LLM applications, retrieval, cloud integrations, and the product infrastructure that makes them dependable in practice. I am pursuing a B.S. in Computer Science on the AI/ML track at St. Cloud State University.
 
-## Selected work
+## Featured Builds
 
-- [The Stack](https://github.com/Yohanes-Mk/the-stack) — an AI-powered event and content curation pipeline with modular ingestion, ranking, digests, and monitoring.
-- [Fleet Command](https://github.com/Yohanes-Mk/Fleet-Command) — a 4X strategy game with LLM-powered opponents and serialized game state.
-- [YohanesOS](https://github.com/Yohanes-Mk/YohanesOS) — the source for my portfolio and current project archive.
+### [The Stack](https://github.com/Yohanes-Mk/the-stack)
 
-## Working with
+An AI-powered curation pipeline that turns fragmented event and content sources into ranked, monitored digests. Built around modular ingestion, enrichment, ranking, and delivery rather than a one-off prompt.
 
-Python, TypeScript, FastAPI, PostgreSQL, pgvector, Docker, AWS, Azure, LLM application patterns, retrieval systems, and GitHub Actions.
+<a href="https://github.com/Yohanes-Mk/the-stack">
+  <img src="https://raw.githubusercontent.com/Yohanes-Mk/the-stack/main/docs/showcase/events-digest-full.gif" alt="The Stack event digest demo" width="100%" />
+</a>
 
-## Find me
+### [RidgeRunner](https://github.com/Yohanes-Mk/RidgeRunner)
 
-[Portfolio](https://yohanes-os.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/yohs) · [Email](mailto:yohanigusse@gmail.com)
+A Unity 6 time-trial racing prototype with checkpoint validation, off-track penalties, race telemetry, and a polished playable loop.
+
+<a href="https://github.com/Yohanes-Mk/RidgeRunner">
+  <img src="https://raw.githubusercontent.com/Yohanes-Mk/RidgeRunner/main/docs/ridge-runner-demo.gif" alt="RidgeRunner gameplay demo" width="100%" />
+</a>
+
+## More Work
+
+- [YohanesOS](https://github.com/Yohanes-Mk/YohanesOS) — portfolio source and current project archive.
+- [Fleet Command](https://github.com/Yohanes-Mk/Fleet-Command) — 4X strategy design work exploring LLM-powered opponents and serialized game state.
+- [Sign-Speech](https://github.com/Yohanes-Mk/Sign-Speech-Two-Way-Visual-Communication-System) — visual communication prototypes for sign-language and visual-speech recognition.
+
+## Engineering Focus
+
+**Applied AI:** LLM application patterns, retrieval systems, evaluation-minded workflows, and data pipelines.
+
+**Backend and platform:** Python, TypeScript, FastAPI, PostgreSQL, pgvector, Docker, AWS, Azure, and GitHub Actions.
+
+## Contact
+
+Open to conversations about applied AI, backend systems, and product infrastructure: [Portfolio](https://yohanes-os.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/yohs) · [Email](mailto:yohanigusse@gmail.com)
