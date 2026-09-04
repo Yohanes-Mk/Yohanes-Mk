@@ -37,7 +37,19 @@ A Unity 6 time-trial racing prototype with checkpoint validation, off-track pena
 
 **Applied AI:** LLM application patterns, retrieval systems, evaluation-minded workflows, and data pipelines.
 
-**Backend and platform:** Python, TypeScript, FastAPI, PostgreSQL, pgvector, Docker, AWS, Azure, and GitHub Actions.
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,fastapi,postgres,docker&perline=5" alt="Python, TypeScript, FastAPI, PostgreSQL, and Docker" />
+  </a>
+</p>
+
+**Cloud and delivery:** AWS, Azure, and GitHub Actions for dependable deployment and iteration.
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,githubactions&perline=3" alt="AWS, Azure, and GitHub Actions" />
+  </a>
+</p>
 
 ## Contact
 
