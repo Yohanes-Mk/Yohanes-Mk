@@ -32,9 +32,16 @@ I build systems that move from messy inputs to useful decisions: LLM-powered cur
   </tr>
 </table>
 
+### [YohannesOS](https://github.com/Yohanes-Mk/YohanesOS)
+
+An interactive portfolio workspace that presents experience, projects, and technical focus through a desktop and mobile OS-inspired interface.
+
+<a href="https://yohanes-os.vercel.app/">
+  <img src="docs/showcase/yohanesos-desktop.png" alt="YohannesOS desktop portfolio workspace" width="100%" />
+</a>
+
 ## Selected Supporting Work
 
-- [YohanesOS](https://github.com/Yohanes-Mk/YohanesOS) — interactive portfolio system built with React, TypeScript, and a terminal/desktop interface.
 - [Fleet Command](https://github.com/Yohanes-Mk/Fleet-Command) — Unity/C# strategy design work exploring serialized game state and LLM-driven opponents.
 - [Sign-Speech](https://github.com/Yohanes-Mk/Sign-Speech-Two-Way-Visual-Communication-System) — computer-vision prototypes for fixed-vocabulary sign recognition and visual speech recognition.
 
