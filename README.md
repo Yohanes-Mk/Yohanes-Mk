@@ -1,52 +1,19 @@
-# Hi, I'm Yohannes 👋
+# Yohannes Nigusse
 
-Rising junior (CS & Economics) @ [St. Cloud State](https://github.com/St-Cloud-State)  
-Focus: **Backend systems** • **Applied AI/ML** • **Turning research models into usable tools**  
-Open to internships — yohanigusse@gmail.com
+Applied AI and backend engineer focused on turning ambiguous workflows into reliable, useful systems. I work across LLM applications, retrieval, cloud integrations, and the product infrastructure that makes them dependable in practice.
 
----
+I am pursuing a B.S. in Computer Science (AI/ML Track) at St. Cloud State University, graduating December 2027. My work spans solo products, client-facing systems, and research environments.
 
-## Recently working on
-- 🖼️ **2D→3D Image Reconstruction** — Adapted & productionized Zero123++ into a runnable tool: checkpoint bootstrap, Streamlit/Gradio demos, and Docker/Cog packaging for reproducible runs.
+## Selected work
 
+- [The Stack](https://github.com/Yohanes-Mk/the-stack) — an AI-powered event and content curation pipeline with modular ingestion, ranking, digests, and monitoring.
+- [Fleet Command](https://github.com/Yohanes-Mk/Fleet-Command) — a 4X strategy game with LLM-powered opponents and serialized game state.
+- [YohanesOS](https://github.com/Yohanes-Mk/YohanesOS) — the source for my portfolio and current project archive.
 
----
-## 🛠️ Tech Stack
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>AI/ML</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" />
-      <img src="https://img.shields.io/badge/Gradio-3FA037?logo=gradio&logoColor=white" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend & Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
-    </td>
-  </tr>
-</table>
+## Working with
 
----
+Python, TypeScript, FastAPI, PostgreSQL, pgvector, Docker, AWS, Azure, LLM application patterns, retrieval systems, and GitHub Actions.
 
-## Contact
-📧 Email: yohanigusse@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/yohannesnigusse
+## Find me
+
+[Portfolio](https://yohanes-os.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/yohs) · [Email](mailto:yohanigusse@gmail.com)
