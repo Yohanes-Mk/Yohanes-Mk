@@ -1,61 +1,72 @@
 <h1 align="center">Yohannes Nigusse</h1>
 
 <p align="center">
-  Applied AI and backend engineer building reliable systems from ambiguous workflows.<br />
+  <strong>Applied AI &amp; backend engineering</strong> for retrieval, workflow automation, and dependable product infrastructure.<br />
   <a href="https://yohanes-os.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/yohs">LinkedIn</a> ·
   <a href="mailto:yohanigusse@gmail.com">Email</a>
 </p>
 
-I work across LLM applications, retrieval, cloud integrations, and the product infrastructure that makes them dependable in practice. I am pursuing a B.S. in Computer Science on the AI/ML track at St. Cloud State University.
+I build systems that move from messy inputs to useful decisions: LLM-powered curation and retrieval, API integrations, data pipelines, and the reliability work around them. Recent work spans production accessibility engineering, serverless integrations, and AI products for real users. I am pursuing a B.S. in Computer Science on the AI/ML track at St. Cloud State University.
 
 ## Featured Builds
 
-### [The Stack](https://github.com/Yohanes-Mk/the-stack)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Yohanes-Mk/the-stack">The Stack</a></h3>
+      <p>AI-powered curation pipeline for ingesting, enriching, ranking, monitoring, and delivering event and content digests.</p>
+      <p><sub>Python · PostgreSQL · LLM APIs · Docker</sub></p>
+      <a href="https://github.com/Yohanes-Mk/the-stack">
+        <img src="https://raw.githubusercontent.com/Yohanes-Mk/the-stack/main/docs/showcase/events-digest-full.gif" alt="The Stack event digest demo" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Yohanes-Mk/RidgeRunner">RidgeRunner</a></h3>
+      <p>Unity 6 time-trial racer with checkpoint validation, off-track penalties, race telemetry, and a polished playable loop.</p>
+      <p><sub>Unity · C# · Real-time systems · Game telemetry</sub></p>
+      <a href="https://github.com/Yohanes-Mk/RidgeRunner">
+        <img src="https://raw.githubusercontent.com/Yohanes-Mk/RidgeRunner/main/docs/ridge-runner-demo.gif" alt="RidgeRunner gameplay demo" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-An AI-powered curation pipeline that turns fragmented event and content sources into ranked, monitored digests. Built around modular ingestion, enrichment, ranking, and delivery rather than a one-off prompt.
+## Selected Supporting Work
 
-<a href="https://github.com/Yohanes-Mk/the-stack">
-  <img src="https://raw.githubusercontent.com/Yohanes-Mk/the-stack/main/docs/showcase/events-digest-full.gif" alt="The Stack event digest demo" width="100%" />
-</a>
-
-### [RidgeRunner](https://github.com/Yohanes-Mk/RidgeRunner)
-
-A Unity 6 time-trial racing prototype with checkpoint validation, off-track penalties, race telemetry, and a polished playable loop.
-
-<a href="https://github.com/Yohanes-Mk/RidgeRunner">
-  <img src="https://raw.githubusercontent.com/Yohanes-Mk/RidgeRunner/main/docs/ridge-runner-demo.gif" alt="RidgeRunner gameplay demo" width="100%" />
-</a>
-
-## More Work
-
-- [YohanesOS](https://github.com/Yohanes-Mk/YohanesOS) — portfolio source and current project archive.
-- [Fleet Command](https://github.com/Yohanes-Mk/Fleet-Command) — 4X strategy design work exploring LLM-powered opponents and serialized game state.
-- [Sign-Speech](https://github.com/Yohanes-Mk/Sign-Speech-Two-Way-Visual-Communication-System) — visual communication prototypes for sign-language and visual-speech recognition.
+- [YohanesOS](https://github.com/Yohanes-Mk/YohanesOS) — interactive portfolio system built with React, TypeScript, and a terminal/desktop interface.
+- [Fleet Command](https://github.com/Yohanes-Mk/Fleet-Command) — Unity/C# strategy design work exploring serialized game state and LLM-driven opponents.
+- [Sign-Speech](https://github.com/Yohanes-Mk/Sign-Speech-Two-Way-Visual-Communication-System) — computer-vision prototypes for fixed-vocabulary sign recognition and visual speech recognition.
 
 ## Skills & Tools
 
 ### Professional Skillset
 
-**AI and retrieval systems** — RAG pipelines, LLM orchestration, pgvector, sentence-transformers, LangChain, OpenAI API, Anthropic API, and Azure AI Search.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>AI Systems</strong><br />
+      <sub>RAG · LLM orchestration · pgvector · retrieval evaluation · OpenAI and Anthropic APIs</sub><br /><br />
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker&amp;perline=4" alt="Python, FastAPI, PostgreSQL, and Docker" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Backend &amp; Data</strong><br />
+      <sub>Python · TypeScript · REST APIs · Flask · SQLAlchemy · PostgreSQL · SQLite · MongoDB</sub><br /><br />
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,typescript,flask,postgres,mongodb&amp;perline=5" alt="Python, TypeScript, Flask, PostgreSQL, and MongoDB" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Platform &amp; Quality</strong><br />
+      <sub>AWS serverless · Azure AI · CI/CD · OOXML · WCAG 2.1 · Section 508 · NVDA</sub><br /><br />
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,githubactions,jest,linux&amp;perline=5" alt="AWS, Azure, GitHub Actions, Jest, and Linux" /></a>
+    </td>
+  </tr>
+</table>
 
-**Backend and data** — Python, TypeScript, FastAPI, Flask, REST APIs, PostgreSQL, SQLite, MongoDB, SQLAlchemy, and Docker.
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,fastapi,flask,postgres,mongodb,docker&perline=7" alt="Python, TypeScript, FastAPI, Flask, PostgreSQL, MongoDB, and Docker" />
-  </a>
-</p>
-
-**Cloud, platform, and quality** — AWS Lambda and API Gateway; Azure Functions, Blob Storage, Cognitive Search, and Azure OpenAI; GitHub Actions; TypeScript/OOXML automation; accessibility testing with WCAG 2.1, Section 508, and NVDA.
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,githubactions,linux,jest&perline=5" alt="AWS, Azure, GitHub Actions, Linux, and Jest" />
-  </a>
-</p>
-
-**Supporting ML and real-time systems** — TensorFlow, PyTorch, scikit-learn, MediaPipe, OpenCV, YOLO, Streamlit, Unity, and C#.
+<details>
+  <summary><strong>ML, computer vision, and interactive systems</strong></summary>
+  <br />
+  TensorFlow · PyTorch · scikit-learn · MediaPipe · OpenCV · YOLO · Streamlit · Unity · C#
+</details>
 
 ### Tools I Use
 
@@ -67,9 +78,3 @@ A Unity 6 time-trial racing prototype with checkpoint validation, off-track pena
   <img src="https://img.shields.io/badge/Git-181717?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 </p>
-
-I use AI-assisted development tools to accelerate implementation and review, while keeping architecture, testing, and delivery decisions grounded in the system being built.
-
-## Contact
-
-Open to conversations about applied AI, backend systems, and product infrastructure: [Portfolio](https://yohanes-os.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/yohs) · [Email](mailto:yohanigusse@gmail.com)
